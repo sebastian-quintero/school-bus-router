@@ -1,0 +1,32 @@
+[
+    {
+        "rider_id": "Forrest Gump",
+        "lat": 4.720634,
+        "lng": -74.037228
+    },
+    {
+        "rider_id": "Jenny Curran",
+        "lat": 4.720573,
+        "lng": -74.037273
+    },
+    {
+        "rider_id": "Lieutenant Dan",
+        "lat": 4.708958,
+        "lng": -74.035172
+    },
+    {
+        "rider_id": "Bubba Blue",
+        "lat": 4.707263,
+        "lng": -74.033858
+    },
+    {
+        "rider_id": "Veteran at War Rally",
+        "lat": 4.709962,
+        "lng": -74.047881
+    },
+    {
+        "rider_id": "Nurse at Park Bench",
+        "lat": 4.709719,
+        "lng": -74.051289
+    }
+]

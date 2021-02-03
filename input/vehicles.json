@@ -1,0 +1,14 @@
+[
+    {
+        "capacity": 4,
+        "start": "school",
+        "end": "school",
+        "vehicle_id": "magic_school_bus"
+    },
+    {
+        "capacity": 3,
+        "start": "school",
+        "end": "parking_lot",
+        "vehicle_id": "thomas_the_bus_engine"
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "vehicle_id": "1",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "2",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "3",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "4",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "5",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "6",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "7",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "8",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "9",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "10",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "11",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "12",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "13",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "14",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "15",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "16",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "17",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "18",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "19",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "20",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "21",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    },
+    {
+        "vehicle_id": "22",
+        "capacity": 50,
+        "start": "school",
+        "end": "school"
+    }
+]

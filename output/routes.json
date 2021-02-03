@@ -1,0 +1,95 @@
+[
+    {
+        "vehicle_id": "magic_school_bus",
+        "stops": [
+            {
+                "location": [
+                    4.809486,
+                    -74.070967
+                ],
+                "riders": null,
+                "depot_id": "school"
+            },
+            {
+                "location": [
+                    4.7206035,
+                    -74.0372505
+                ],
+                "riders": [
+                    "Forrest Gump",
+                    "Jenny Curran"
+                ],
+                "depot_id": null
+            },
+            {
+                "location": [
+                    4.707263,
+                    -74.033858
+                ],
+                "riders": [
+                    "Bubba Blue"
+                ],
+                "depot_id": null
+            },
+            {
+                "location": [
+                    4.708958,
+                    -74.035172
+                ],
+                "riders": [
+                    "Lieutenant Dan"
+                ],
+                "depot_id": null
+            },
+            {
+                "location": [
+                    4.809486,
+                    -74.070967
+                ],
+                "riders": null,
+                "depot_id": "school"
+            }
+        ]
+    },
+    {
+        "vehicle_id": "thomas_the_bus_engine",
+        "stops": [
+            {
+                "location": [
+                    4.809486,
+                    -74.070967
+                ],
+                "riders": null,
+                "depot_id": "school"
+            },
+            {
+                "location": [
+                    4.709962,
+                    -74.047881
+                ],
+                "riders": [
+                    "Veteran at War Rally"
+                ],
+                "depot_id": null
+            },
+            {
+                "location": [
+                    4.709719,
+                    -74.051289
+                ],
+                "riders": [
+                    "Nurse at Park Bench"
+                ],
+                "depot_id": null
+            },
+            {
+                "location": [
+                    4.706808,
+                    -74.056231
+                ],
+                "riders": null,
+                "depot_id": "parking_lot"
+            }
+        ]
+    }
+]
